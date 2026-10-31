@@ -1,0 +1,21 @@
+{
+    "name": "Jo",
+    "roll_number": "CS2024001",
+    "attendance": 73,
+    "total_days": 100,
+    "present_days": 73,
+    "banked_days": 0,
+    "points": 1250,
+    "level": 3,
+    "streak": 12,
+    "pet_hunger": 85,
+    "pet_level": 7,
+    "lottery_tickets": 2,
+    "medical_leaves": 3,
+    "total_medical_leaves": 10,
+    "late_marks": 2,
+    "consistency_score": 70,
+    "class_average": 78,
+    "class_rank": 28,
+    "total_students": 45
+}
